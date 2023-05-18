@@ -1,5 +1,5 @@
 ### Hola!. 👋
-![Logo](https://github.com/xTony7/xtony7/assets/63086490/3405526c-7d79-4f8a-a634-f82de9196d07)
+
 
 <!--
 **xTony7/xtony7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
